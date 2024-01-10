@@ -1,0 +1,1 @@
+/home/roj/.bashrc
